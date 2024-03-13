@@ -6,9 +6,9 @@
         {"id": 3,"nome": "Hwasa" }
     ],
     "cores": [
-        {"idColor": 0, "nomeColor": "Amarelo"},
-        {"idColor": 0, "nomeColor": "Vermelho"},
-        {"idColor": 0, "nomeColor": "Azul"},
-        {"idColor": 0, "nomeColor": "Verde"}
+        {"idColor": 0, "nomeColor": "Amarelo", "img": "https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_640.png"},
+        {"idColor": 0, "nomeColor": "Vermelho", "img": "https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_640.png"},
+        {"idColor": 0, "nomeColor": "Azul", "img": "https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_640.png"},
+        {"idColor": 0, "nomeColor": "Verde", "img": "https://cdn.pixabay.com/photo/2014/06/03/19/38/road-sign-361514_640.png"}
     ]
 }
