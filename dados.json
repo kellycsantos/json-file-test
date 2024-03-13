@@ -1,0 +1,14 @@
+{
+    "user": [
+        {"id": 0,"nome": "Solar" },
+        {"id": 1,"nome": "Moonbyul" },
+        {"id": 2,"nome": "Wheein" },
+        {"id": 3,"nome": "Hwasa" }
+    ],
+    "cores": [
+        {"idColor": 0, "nomeColor": "Amarelo"},
+        {"idColor": 0, "nomeColor": "Vermelho"},
+        {"idColor": 0, "nomeColor": "Azul"},
+        {"idColor": 0, "nomeColor": "Verde"}
+    ]
+}
